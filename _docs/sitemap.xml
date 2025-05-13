@@ -2,142 +2,142 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://DeanLight.github.io/ladle/dbs.html</loc>
-    <lastmod>2025-05-13T14:01:54.046Z</lastmod>
+    <lastmod>2025-05-13T14:32:40.144Z</lastmod>
   </url>
   <url>
     <loc>https://DeanLight.github.io/ladle/tools.html</loc>
-    <lastmod>2025-05-13T14:01:53.315Z</lastmod>
+    <lastmod>2025-05-13T14:32:39.972Z</lastmod>
   </url>
   <url>
     <loc>https://DeanLight.github.io/ladle/standard_library.html</loc>
-    <lastmod>2025-05-13T14:01:52.294Z</lastmod>
+    <lastmod>2025-05-13T14:32:39.001Z</lastmod>
   </url>
   <url>
     <loc>https://DeanLight.github.io/ladle/object_mappings.html</loc>
-    <lastmod>2025-05-13T14:01:51.191Z</lastmod>
+    <lastmod>2025-05-13T14:32:37.403Z</lastmod>
   </url>
   <url>
     <loc>https://DeanLight.github.io/ladle/visualization.html</loc>
-    <lastmod>2025-05-13T14:01:49.553Z</lastmod>
-  </url>
-  <url>
-    <loc>https://DeanLight.github.io/ladle/index.html</loc>
-    <lastmod>2025-05-13T14:01:43.051Z</lastmod>
-  </url>
-  <url>
-    <loc>https://DeanLight.github.io/ladle/docs/tutorials/compound_diagrams.html</loc>
-    <lastmod>2025-05-13T14:01:43.456Z</lastmod>
-  </url>
-  <url>
-    <loc>https://DeanLight.github.io/ladle/docs/tutorials/nested_diagrams.html</loc>
-    <lastmod>2025-05-13T14:01:43.306Z</lastmod>
-  </url>
-  <url>
-    <loc>https://DeanLight.github.io/ladle/docs/tutorials/port_mapping.html</loc>
-    <lastmod>2025-05-13T14:01:43.292Z</lastmod>
-  </url>
-  <url>
-    <loc>https://DeanLight.github.io/ladle/docs/tutorials/customizing_state.html</loc>
-    <lastmod>2025-05-13T14:01:43.255Z</lastmod>
-  </url>
-  <url>
-    <loc>https://DeanLight.github.io/ladle/docs/tutorials/decision_diagrams.html</loc>
-    <lastmod>2025-05-13T14:01:43.153Z</lastmod>
-  </url>
-  <url>
-    <loc>https://DeanLight.github.io/ladle/docs/reference/diagrams_reference.html</loc>
-    <lastmod>2025-05-13T14:01:49.898Z</lastmod>
-  </url>
-  <url>
-    <loc>https://DeanLight.github.io/ladle/docs/nodes/tools.html</loc>
-    <lastmod>2025-05-13T14:01:53.232Z</lastmod>
-  </url>
-  <url>
-    <loc>https://DeanLight.github.io/ladle/docs/nodes/stdlib.html</loc>
-    <lastmod>2025-05-13T14:01:52.257Z</lastmod>
-  </url>
-  <url>
-    <loc>https://DeanLight.github.io/ladle/docs/examples/099_future_agent_ideas.html</loc>
-    <lastmod>2025-05-13T14:01:42.893Z</lastmod>
-  </url>
-  <url>
-    <loc>https://DeanLight.github.io/ladle/docs/examples/001_rag.html</loc>
-    <lastmod>2025-05-13T14:01:42.797Z</lastmod>
-  </url>
-  <url>
-    <loc>https://DeanLight.github.io/ladle/docs/examples/002_react.html</loc>
-    <lastmod>2025-05-13T14:01:42.795Z</lastmod>
-  </url>
-  <url>
-    <loc>https://DeanLight.github.io/ladle/docs/examples/distilled_rag.html</loc>
-    <lastmod>2025-05-13T14:01:42.693Z</lastmod>
-  </url>
-  <url>
-    <loc>https://DeanLight.github.io/ladle/docs/examples/monitor.html</loc>
-    <lastmod>2025-05-13T14:01:42.694Z</lastmod>
-  </url>
-  <url>
-    <loc>https://DeanLight.github.io/ladle/docs/examples/strategy.html</loc>
-    <lastmod>2025-05-13T14:01:42.796Z</lastmod>
-  </url>
-  <url>
-    <loc>https://DeanLight.github.io/ladle/docs/examples/interactive_qa_db.html</loc>
-    <lastmod>2025-05-13T14:01:42.889Z</lastmod>
-  </url>
-  <url>
-    <loc>https://DeanLight.github.io/ladle/docs/examples/003_interactive_qa.html</loc>
-    <lastmod>2025-05-13T14:01:43.298Z</lastmod>
-  </url>
-  <url>
-    <loc>https://DeanLight.github.io/ladle/docs/nodes/chat.html</loc>
-    <lastmod>2025-05-13T14:01:52.923Z</lastmod>
-  </url>
-  <url>
-    <loc>https://DeanLight.github.io/ladle/docs/nodes/dbs.html</loc>
-    <lastmod>2025-05-13T14:01:53.982Z</lastmod>
-  </url>
-  <url>
-    <loc>https://DeanLight.github.io/ladle/docs/tutorials/getting_started.html</loc>
-    <lastmod>2025-05-13T14:01:42.951Z</lastmod>
-  </url>
-  <url>
-    <loc>https://DeanLight.github.io/ladle/docs/tutorials/stateful_nodes.html</loc>
-    <lastmod>2025-05-13T14:01:43.252Z</lastmod>
-  </url>
-  <url>
-    <loc>https://DeanLight.github.io/ladle/docs/tutorials/batching.html</loc>
-    <lastmod>2025-05-13T14:01:43.290Z</lastmod>
-  </url>
-  <url>
-    <loc>https://DeanLight.github.io/ladle/docs/tutorials/best_practices.html</loc>
-    <lastmod>2025-05-13T14:01:43.303Z</lastmod>
-  </url>
-  <url>
-    <loc>https://DeanLight.github.io/ladle/docs/tutorials/old_tutorial.html</loc>
-    <lastmod>2025-05-13T14:01:43.396Z</lastmod>
+    <lastmod>2025-05-13T14:32:35.984Z</lastmod>
   </url>
   <url>
     <loc>https://DeanLight.github.io/ladle/basic_diagrams.html</loc>
-    <lastmod>2025-05-13T14:01:42.793Z</lastmod>
+    <lastmod>2025-05-13T14:32:28.381Z</lastmod>
+  </url>
+  <url>
+    <loc>https://DeanLight.github.io/ladle/docs/tutorials/old_tutorial.html</loc>
+    <lastmod>2025-05-13T14:32:28.817Z</lastmod>
+  </url>
+  <url>
+    <loc>https://DeanLight.github.io/ladle/docs/tutorials/best_practices.html</loc>
+    <lastmod>2025-05-13T14:32:28.715Z</lastmod>
+  </url>
+  <url>
+    <loc>https://DeanLight.github.io/ladle/docs/tutorials/stateful_nodes.html</loc>
+    <lastmod>2025-05-13T14:32:28.594Z</lastmod>
+  </url>
+  <url>
+    <loc>https://DeanLight.github.io/ladle/docs/tutorials/compound_diagrams.html</loc>
+    <lastmod>2025-05-13T14:32:28.584Z</lastmod>
+  </url>
+  <url>
+    <loc>https://DeanLight.github.io/ladle/docs/tutorials/batching.html</loc>
+    <lastmod>2025-05-13T14:32:28.417Z</lastmod>
+  </url>
+  <url>
+    <loc>https://DeanLight.github.io/ladle/docs/reference/diagrams_reference.html</loc>
+    <lastmod>2025-05-13T14:32:36.487Z</lastmod>
+  </url>
+  <url>
+    <loc>https://DeanLight.github.io/ladle/docs/nodes/tools.html</loc>
+    <lastmod>2025-05-13T14:32:39.886Z</lastmod>
+  </url>
+  <url>
+    <loc>https://DeanLight.github.io/ladle/docs/nodes/stdlib.html</loc>
+    <lastmod>2025-05-13T14:32:38.690Z</lastmod>
+  </url>
+  <url>
+    <loc>https://DeanLight.github.io/ladle/docs/examples/distilled_rag.html</loc>
+    <lastmod>2025-05-13T14:32:28.418Z</lastmod>
+  </url>
+  <url>
+    <loc>https://DeanLight.github.io/ladle/docs/examples/002_react.html</loc>
+    <lastmod>2025-05-13T14:32:28.316Z</lastmod>
+  </url>
+  <url>
+    <loc>https://DeanLight.github.io/ladle/docs/examples/099_future_agent_ideas.html</loc>
+    <lastmod>2025-05-13T14:32:28.286Z</lastmod>
+  </url>
+  <url>
+    <loc>https://DeanLight.github.io/ladle/docs/examples/003_interactive_qa.html</loc>
+    <lastmod>2025-05-13T14:32:28.283Z</lastmod>
+  </url>
+  <url>
+    <loc>https://DeanLight.github.io/ladle/docs/examples/interactive_qa_db.html</loc>
+    <lastmod>2025-05-13T14:32:28.283Z</lastmod>
+  </url>
+  <url>
+    <loc>https://DeanLight.github.io/ladle/docs/examples/001_rag.html</loc>
+    <lastmod>2025-05-13T14:32:28.292Z</lastmod>
+  </url>
+  <url>
+    <loc>https://DeanLight.github.io/ladle/docs/examples/monitor.html</loc>
+    <lastmod>2025-05-13T14:32:28.416Z</lastmod>
+  </url>
+  <url>
+    <loc>https://DeanLight.github.io/ladle/docs/examples/strategy.html</loc>
+    <lastmod>2025-05-13T14:32:28.817Z</lastmod>
+  </url>
+  <url>
+    <loc>https://DeanLight.github.io/ladle/docs/nodes/chat.html</loc>
+    <lastmod>2025-05-13T14:32:39.434Z</lastmod>
+  </url>
+  <url>
+    <loc>https://DeanLight.github.io/ladle/docs/nodes/dbs.html</loc>
+    <lastmod>2025-05-13T14:32:40.069Z</lastmod>
+  </url>
+  <url>
+    <loc>https://DeanLight.github.io/ladle/docs/tutorials/customizing_state.html</loc>
+    <lastmod>2025-05-13T14:32:28.388Z</lastmod>
+  </url>
+  <url>
+    <loc>https://DeanLight.github.io/ladle/docs/tutorials/nested_diagrams.html</loc>
+    <lastmod>2025-05-13T14:32:28.494Z</lastmod>
+  </url>
+  <url>
+    <loc>https://DeanLight.github.io/ladle/docs/tutorials/getting_started.html</loc>
+    <lastmod>2025-05-13T14:32:28.584Z</lastmod>
+  </url>
+  <url>
+    <loc>https://DeanLight.github.io/ladle/docs/tutorials/decision_diagrams.html</loc>
+    <lastmod>2025-05-13T14:32:28.682Z</lastmod>
+  </url>
+  <url>
+    <loc>https://DeanLight.github.io/ladle/docs/tutorials/port_mapping.html</loc>
+    <lastmod>2025-05-13T14:32:28.788Z</lastmod>
+  </url>
+  <url>
+    <loc>https://DeanLight.github.io/ladle/index.html</loc>
+    <lastmod>2025-05-13T14:32:28.282Z</lastmod>
   </url>
   <url>
     <loc>https://DeanLight.github.io/ladle/core.html</loc>
-    <lastmod>2025-05-13T14:01:49.054Z</lastmod>
+    <lastmod>2025-05-13T14:32:35.382Z</lastmod>
   </url>
   <url>
     <loc>https://DeanLight.github.io/ladle/diagram_serialization.html</loc>
-    <lastmod>2025-05-13T14:01:49.700Z</lastmod>
+    <lastmod>2025-05-13T14:32:36.181Z</lastmod>
   </url>
   <url>
     <loc>https://DeanLight.github.io/ladle/diagrams.html</loc>
-    <lastmod>2025-05-13T14:01:51.457Z</lastmod>
+    <lastmod>2025-05-13T14:32:38.380Z</lastmod>
   </url>
   <url>
     <loc>https://DeanLight.github.io/ladle/llms.html</loc>
-    <lastmod>2025-05-13T14:01:52.934Z</lastmod>
+    <lastmod>2025-05-13T14:32:39.636Z</lastmod>
   </url>
   <url>
     <loc>https://DeanLight.github.io/ladle/doc_utils.html</loc>
-    <lastmod>2025-05-13T14:01:53.337Z</lastmod>
+    <lastmod>2025-05-13T14:32:40.039Z</lastmod>
   </url>
 </urlset>
